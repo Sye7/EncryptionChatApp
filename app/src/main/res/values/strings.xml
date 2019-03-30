@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EncryptionBySasuke</string>
+    <string name="clearSuccess1">clearSuccess1</string>
+    <string name="clearSuccess2">clearSuccess2</string>
+
+    <string name="your_code">Your Code</string>
+</resources>
